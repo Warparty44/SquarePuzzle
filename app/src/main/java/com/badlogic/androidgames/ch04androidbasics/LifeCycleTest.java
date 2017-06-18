@@ -13,7 +13,7 @@ import android.widget.TextView;
 public class LifeCycleTest extends AppCompatActivity{
     StringBuilder builder = new StringBuilder();
     TextView textView;
-
+//Test
     private void log(String text) {
         Log.d("LifeCycleTest", text);
         builder.append(text);
