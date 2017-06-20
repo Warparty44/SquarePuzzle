@@ -38,6 +38,14 @@
             android:label="External Storage Test"
             android:configChanges="keyboard|keyboardHidden|orientation"/>
 
+        <activity android:name=".SoundPoolTest"
+            android:label="External Storage Test"
+            android:configChanges="keyboard|keyboardHidden|orientation"/>
+
+        <activity android:name=".MediaPlayerTest"
+            android:label="External Storage Test"
+            android:configChanges="keyboard|keyboardHidden|orientation"/>
+
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
