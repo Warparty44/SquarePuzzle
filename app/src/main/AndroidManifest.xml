@@ -54,6 +54,14 @@
             android:label="External Storage Test"
             android:configChanges="keyboard|keyboardHidden|orientation"/>
 
+        <activity android:name=".ShapeTest"
+            android:label="External Storage Test"
+            android:configChanges="keyboard|keyboardHidden|orientation"/>
+
+        <activity android:name=".BitmapTest"
+            android:label="External Storage Test"
+            android:configChanges="keyboard|keyboardHidden|orientation"/>
+
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
