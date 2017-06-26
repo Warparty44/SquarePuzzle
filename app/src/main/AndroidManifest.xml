@@ -39,27 +39,35 @@
             android:configChanges="keyboard|keyboardHidden|orientation"/>
 
         <activity android:name=".SoundPoolTest"
-            android:label="External Storage Test"
+            android:label="Sound Pool Test"
             android:configChanges="keyboard|keyboardHidden|orientation"/>
 
         <activity android:name=".MediaPlayerTest"
-            android:label="External Storage Test"
+            android:label="Media Player Test"
             android:configChanges="keyboard|keyboardHidden|orientation"/>
 
         <activity android:name=".FullScreenTest"
-            android:label="External Storage Test"
+            android:label="Fullscreen Test"
             android:configChanges="keyboard|keyboardHidden|orientation"/>
 
         <activity android:name=".RenderViewTest"
-            android:label="External Storage Test"
+            android:label="Render View Test"
             android:configChanges="keyboard|keyboardHidden|orientation"/>
 
         <activity android:name=".ShapeTest"
-            android:label="External Storage Test"
+            android:label="Shape Test Test"
             android:configChanges="keyboard|keyboardHidden|orientation"/>
 
         <activity android:name=".BitmapTest"
-            android:label="External Storage Test"
+            android:label="Bitmap Test"
+            android:configChanges="keyboard|keyboardHidden|orientation"/>
+
+        <activity android:name=".FontTest"
+            android:label="Font Test"
+            android:configChanges="keyboard|keyboardHidden|orientation"/>
+
+        <activity android:name=".SurfaceViewTest"
+            android:label="Surface View  Test"
             android:configChanges="keyboard|keyboardHidden|orientation"/>
 
         <activity android:name=".MainActivity">
